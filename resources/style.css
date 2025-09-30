@@ -1,0 +1,46 @@
+.button {
+    -fx-text-fill: white;
+    -fx-font-weight: bold;
+    -fx-background-radius: 8;
+    -fx-cursor: hand;
+}
+
+.add{
+    -fx-background-color: #4CAF50;
+}
+.delete{
+    -fx-background-color: #F44336;
+}
+.deleteal{
+    -fx-background-color: #F44336;
+}
+.edit{
+    -fx-background-color: #FF9800;
+}
+.done{
+    -fx-background-color: #2196F3;
+}
+.pane {
+    -fx-background-color: linear-gradient(to bottom, #e3f2fd, #90caf9);
+}
+#ivedimoID {
+    -fx-background-color: lightyellow;
+    -fx-border-color: #2196F3;
+    -fx-border-radius: 5;
+}
+#laukasID {
+    -fx-background-color: #ffffff;
+    -fx-border-color: #2196F3;
+    -fx-border-radius: 8;
+    -fx-padding: 5;
+    -fx-font-size: 14px;
+    -fx-font-family: "Segoe UI";
+}
+.list-cell {
+    -fx-text-fill: black;
+}
+
+.list-cell:filled:selected {
+    -fx-background-color: #90caf9;
+    -fx-text-fill: white;
+}
