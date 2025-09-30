@@ -12,6 +12,7 @@ This project was created as a practice project while learning Java.
 - Auto save and load tasks from file  
 
 ## Screenshot
+![App Screenshot](Screenshot.png)
 
 
 
