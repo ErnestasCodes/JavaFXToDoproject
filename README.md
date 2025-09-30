@@ -12,13 +12,18 @@ This project was created as a practice project while learning Java.
 - Auto save and load tasks from file  
 
 ## Screenshot
-![Uploading image.png…]()
+
 
 
 ## Technologies Used
 - Java 25 
 - JavaFX  
-- IntelliJ IDEA  
+- IntelliJ IDEA
+
+## Future Improvements
+- Dark/Light theme
+- Persistent database (SQLite) instead of text file
+- Better UI design
 
 ## How to Run
 1. Clone the repository:
